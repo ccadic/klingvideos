@@ -1,3 +1,3 @@
 # klingvideos
 Python Scripts to edit KlingAI videos
-<img src="klinai3.jpg">
+<img src="klinkai3.jpg">
